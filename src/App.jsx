@@ -8,7 +8,7 @@ function App() {
     username : ""
   })
   const [loading,setLoading] = useState(true)
-  const [input,setInput] = useState("octocat")
+  const [input,setInput] = useState("naufalfarr")
   const [error,setError] = useState(false)
   const [theme,setTheme] = useState(true)
   function handleUser(event){
